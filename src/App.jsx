@@ -7,6 +7,7 @@ import ErrorRouter from "./pages/errorRouter";
 import { useState, useEffect } from 'react';
 import Dashboard from "./pages/Dashboard";
 import Balance from './pages/Balance';
+import Expenses from './pages/Expenses';
 
   // Komponen ProtectedRoute
   // const ProtectedRoute = ({ element }) => {
